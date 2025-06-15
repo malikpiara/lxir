@@ -30,7 +30,7 @@ export default function Home() {
           </div>
         </div>
        
-        <div className='flex flex-col ml-[50%] md:ml-[50%] p-16 animate-in space-y-2'>
+        <div className='flex flex-col sm:ml-[50%] p-6 sm:p-16 animate-in space-y-2'>
           <h1 className='scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance uppercase'>Sandbox Lxir</h1>
           <p className="text-[#c5f0fbde] text-xl">
       Lisboa Summer Magic. August 27 — September 3.
